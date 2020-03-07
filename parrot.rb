@@ -7,7 +7,3 @@ end
    puts "Squawk!"
    return "Squawk!"
  end
- def parrot(phrase)
-   puts "#{phrase}"
- end
- 
