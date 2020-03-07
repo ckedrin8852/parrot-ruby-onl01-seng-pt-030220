@@ -5,4 +5,3 @@ def parrot
 end
 
 parrot = Squawk!
-parrot
